@@ -1,0 +1,341 @@
+﻿Website Plan -        Custom Web Design, SEO & Automation Agency
+Core Strategy
+Your biggest competitive edge is the one thing every competitor skips: you listen first, then design. No templates, no guessing, no generic layouts pulled from a library. Your website must prove this before a visitor reads a single word -        through its own design, feel, and personality.
+Every page has one job: move the visitor one step closer to booking a discovery call.
+  
+
+
+
+Brand Positioning Statement
+Use this everywhere -        headline, pitch, bio, social:
+"We don't start with a template. We start with a conversation. Every website we build is designed around your business, your customers, and your goals - then built to look unlike anyone else in your industry."  
+  
+
+
+
+Design Direction for Your Own Website
+Your site is your portfolio piece #1. It needs to signal:
+* Craft - attention to spacing, typography, and motion
+* Personality -        not corporate, not generic, warm and confident
+* Uniqueness - the layout itself should feel custom
+
+
+Recommendations:
+* Use a bold, expressive hero with large custom typography -  not a stock hero image
+* Subtle scroll animations (fade-ins, parallax on text layers) show technical skill passively
+* Dark and light section alternation to create visual rhythm
+* A custom color palette that isn't the usual blue-and-white or black-and-white
+* Micro-interactions on buttons and hover states
+* No stock photography of laptops and handshakes - use your actual work, abstract shapes, or illustrated elements
+
+
+  
+
+
+
+Page-by-Page Plan
+  
+
+Page 1: Homepage
+Goal: Immediately communicate who you are, what makes you different, and guide the visitor to one of three next steps- see your work, see pricing, or book a call.
+Section 1-        Hero
+* Headline (big, bold): "Your website should look as good as your business runs."
+* Sub-headline: "We design every website from scratch -        no templates, no shortcuts. Just a custom site built around you."
+* CTA buttons: [Start my project] [See our work]
+* Visual: Either a looping animation showing a "before (template) vs after (custom)" transformation, or a split-screen showing 2-3 samples of work side by side
+* Trust signal below fold line: 5-star rating bar+ "Trusted by [X] local businesses"
+
+
+Section 2 - The Problem (Agitation)
+Short punchy section, 2-3 sentences:
+"Most small business websites are built from the same 12 templates. Your customers can tell. We can't."  
+This creates instant contrast and curiosity.
+
+
+Section 3 - How You're Different
+Three columns, icon + short copy each:
+
+
+Icon
+	Heading
+	Copy
+	Ear
+	We listen first
+	Before we design anything, we learn your business, your customers, and your goals.
+	Brush
+	Everything is custom
+	Zero templates. Every layout, color, and section is made for you.
+	Chart
+	Built to convert
+	Beautiful isn't enough. Every site is built to turn visitors into calls and leads.
+	  
+
+
+
+
+
+Section 4 -  Services Overview (3 cards)
+Simple, clean cards:
+* Websites- Custom-designed, mobile-ready, built to last
+* SEO -        Help your business show up when customers search
+* Automation - Capture leads, follow up automatically, book appointments Each card links to the full Services page.
+Section 5-        Featured Work (2-3 examples)
+Large visual cards with:
+* Industry label (e.g. "Cleaning Company")
+* Before/after slider or full screenshot
+* One result stat if you have it (e.g. "Lead form submissions up 3x")
+* [View project] link
+
+
+Section 6 - Packages Preview
+Show the 3-column pricing preview (Starter/ Business/ Growth) with a note: "Most clients choose the Business or Growth plan."
+* [See all pricing] link below
+
+
+Section 7 - Social Proof
+* 3-4 client quotes (real ones, with name and business)
+* Or a grid of Google review stars with a total count
+
+
+Section 8 -  Final CTA
+* Headline: "Ready to stop blending in?"
+* Sub: "Tell us about your business and we'll design something that's actually yours."
+* [Book a free discovery call] button
+
+
+  
+
+
+
+Page 2: Our Work (Portfolio)
+Goal: Show range, quality, and real results. This is your proof page.
+
+
+Layout Options
+* Grid view: 6-9 projects shown as cards with industry tag, hover effect, and click-through
+* Case study format: 2-3 featured projects with full story (challenge ➔ process ➔ result)
+
+
+Each Project Should Show
+* Industry/business type
+* What was built (website, SEO, automation)
+* 1-2 screenshots or a before/after
+* One result metric if available
+* Brief paragraph on what made the design decisions unique
+
+
+Before/After Slider
+If you have redesign work, a slider showing the old vs new is extremely powerful. Visitors spend
+3x longer on pages with these.
+
+
+BottomCTA
+"Want a website this good? Let's talk."➔[Start my project]
+  
+
+
+
+Page 3: Services
+Goal: Explain the three service areas clearly and filter visitors toward the right package.
+
+
+Structure
+Three service sections, each with its own heading, description, and what's included:
+Custom Website Design
+* Lead with the differentiator: "We don't pick a template. We learn your business and design from a blank canvas."
+* Bullet list of what the process includes
+* Examples of site types (service businesses, contractors, restaurants, etc.)
+* Link to pricing
+
+
+Local SEO
+* Explain the value simply: "If your customers can't fi.nd you on Google, your website isn't working."
+* Three tiers: SEO Lite ($149/mo), SEO Growth ($299/mo), SEO Pro ($499/mo)
+* Disclaimer: "SEO results are not guaranteed, but we follow best practices to improve your visibility over time."
+* Link to pricing
+
+
+Automation & CRM
+* Use the human angle: "Most businesses lose leads because no one followed up. We automate that entire process."
+* Bullet features: CRM, chatbot, missed-call text-back, booking calendar, automated email/text, review requests
+* Link to pricing
+
+
+Bottom of Services Page
+Short FAQ:
+* "Do I need SEO ifl just got a website?" ➔ Yes, but you can start with just the site and add SEO later.
+* "Can I add automation later ifl don't need it now?"➔Absolutely.
+* "What if I already have a website?" ➔ We can redesign it or optimize what you have.
+
+
+  
+
+
+
+Page 4: Pricing
+Goal: Present your packages clearly, handle objections before they come up, and push toward the most profitable plans.
+Layout
+Show all five tiers in a comparison-style layout. Highlight the Growth plan as "Most popular."
+
+
+Plan
+	Price
+	Best for
+	Starter
+	$99/mo
+	Simple presence
+	Business
+	$149/mo
+	Local service businesses
+	Growth   
+	$249/mo
+	Lead-focused websites
+	Growth + Automation
+	$399/mo
+	Businesses that miss calls
+	Premium Custom
+	$499+/mo
+	High-end brands
+	
+
+
+
+Below Each Plan
+* Feature list (condensed from your PDF)
+* [Get started] button
+
+
+Objection Handling (add a short block below the table)
+I "Free setup with a12-month agreement. You own your domain. We handle the rest."
+
+
+Add-On Services Section
+List add-ons in a clean table:
+* Extra page, blog posts, logo design, Google Business Profile setup, SEO packages, etc.
+* Label clearly as optional
+
+
+FAQ Strip
+* "Is there a contract?"➔12-month agreement for free setup. Month-to-month also available with a setup fee.
+* "What if I want to cancel?" ➔ Explain your policy clearly.
+* ''Are SEO results guaranteed?" ➔ No -        but we follow best practices.
+
+
+  
+
+
+
+Page 5: Our Process
+Goal: Remove fear. Show that working with you is easy, personal, and results in something they'll love.
+This page is your secret weapon against the question: "Will they understand what I want?"
+
+
+The 5-Step Process (visual timeline or vertical steps)
+Step 1-        Discovery call (free) "We start by listening. Tell us about your business, your customers, your goals, and your taste. No templates, no assumptions."
+Step 2 - Style & direction "We share mood boards and design directions based on what we learned. You pick the feel - we do the design work."
+Step 3 -  First draft "We build the first version of your site and walk you through it together. You'll
+see exactly what your customers will see."
+Step 4-Revisions "We refine until it's right. You approve it when you love it."
+Step 5 - Launch & support "We launch, monitor, and maintain your website every month. You're never on your own."
+
+
+Supporting Copy
+"Most of our clients say the same thing after their site goes live: 'It actually looks like us.' That's the goal every time."  
+
+
+BottomCTA
+[Book your free discovery call] ➔
+  
+
+
+
+Page 6: Contact/ Start My Project
+Goal: Make starting feel easy. Low commitment, high clarity.
+
+
+Section 1 -  Warm intro
+"You don't need to know exactly what you want. Just tell us a bit about your business and where you're at - we'll guide the rest."
+Discovery Form (keep it short -  max 5 fields)
+1. Yourname
+2. Business name and type
+3. Do you currently have a website? (Yes/ No/ Yes but it needs work)
+4. What are you looking for? (Check boxes: Website / SEO /Automation/ Not sure)
+5. Best way to reach you (email or phone)
+
+
+Optional last field: "Anything else we should know?" Submit button: "Let's talk" -        not "Submit"
+Section 2 - Book a call
+Embed a simple calendar booking tool (Calendly, Cal.com, or your own booking from the automation package).
+"Prefer to talk fi.rst? Book a free 20-minute discovery call. No pitch, no pressure -        just a conversation."
+Section 3 -  Reassurance
+   * Response time: "We reply within 1 business day."
+   * No spam promise
+   * Short list: "What happens next?" ➔ We review your info➔ We schedule a call ➔ We send you a proposal
+
+
+  
+
+
+
+Conversion Strategy: Turning Visitors into Clients
+The 3 Types of Visitors (and how to serve each)
+1. The "just browsing" visitor They don't know if they need you yet.➔Hook them with the
+problem statement in the hero and the "how we're different" section.➔ Get them to the Work page to see proof.
+2. The "I need a website" visitor They know what they want, they're comparing options.➔ Get them to Pricing fast. Make the Growth plan the obvious choice.➔ Show the free setup offer prominently.
+3. The "I need leads, not just a website" visitor More sophisticated. They care about results. ➔
+Lead them to the Growth+ Automation plan.➔The "Our Process" page builds their trust.
+
+
+CTAs - Keep It One
+Every page should have one primary CTA: "Start my project" or "Book a free call". Don't split attention with multiple competing buttons. Secondary links are fine, but the main button is always the same.
+Sticky Navigation
+Keep a [Start my project] button in the top navigation at all times. Visitors should never have to scroll back to find the entry point.
+
+
+Exit Intent/ Scroll Trigger
+After a visitor scrolls 70% of any page, show a subtle banner or floating button: "Ready to get started? Book a free 20-minute call."
+  
+
+
+
+SEO: Your Own Site
+Since you offer SEO, your own site should model best practices.
+* Title tags with local intent: "Custom Website Design for Small Businesses I [City]"
+* Hl on homepage includes your service + location
+* Meta descriptions on every page
+* Google Business Profile linked and optimized
+* Schema markup for local business
+* Page speed optimized (your site should score 90+ on PageSpeed)
+* Blog (optional but powerful): "Why template websites hurt local businesses", "What is website automation and do you need it?", etc.
+
+
+  
+
+
+
+
+
+What to Build First
+If you're launching soon, prioritize in this order:
+   1. Homepage -        your first impression
+   2. Pricing page - your conversion engine
+   3. Our Work/ Portfolio - your proof
+   4. Contact page -  your lead capture
+   5. Services + Process -  supporting depth
+
+
+You can add the blog and expanded case studies after launch.
+  
+
+
+
+Final Note on Your Own Design
+Your website is the most powerful sales tool you have. It should:
+      * Load fast
+      * Look unlike any template
+      * Feel warm, confident, and personal
+      * Show real work
+      * Make starting feel easy
+
+
+When someone lands on your site and thinks "if they can make their own site look this good, imagine what they'd do for mine" -        that's the goal.
